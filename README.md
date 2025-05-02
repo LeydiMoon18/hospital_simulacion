@@ -25,9 +25,8 @@ Aplicar y diferenciar los paradigmas de programación paralela, concurrente y as
 
 ## 📁 Archivos principales
 
-- `main.ipynb`: Implementación completa y ejecutable en Google Colab
-- `diagrama.png`: Diagrama del flujo del sistema
-- `Practica_Simulacion_Hospitalaria_Leydi.pdf`: Informe detallado de la práctica
+- `Práctica de concurrencia y paralelismo.ipynb`: Implementación completa y ejecutable en Google Colab
+- `JiménezPinedaLeydiMonserratPracticaHospital.pdf`: Informe detallado de la práctica
 
 ## ✅ Autor
 
